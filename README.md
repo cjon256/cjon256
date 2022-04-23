@@ -1,5 +1,5 @@
 - 👋 Hi, I’m cjon256
-- 👀 I’m interested in computers, like unhealthily so. I also powerlift and study foreign languanges (primarily Japanese).
+- 👀 I’m interested in computers, like unhealthily so. :D I also powerlift and study foreign languanges (primarily Japanese).
 - 🌱 I’m currently learning AWS cert stuff, and deepening my python skills. Once AWS is a bit more solid I'll be focusing on Terraform and K8s.
 - 💻 My main laptops are macbooks (intel for work and M1 Air personal use)
 - 💾 My homelab is 3 servers and some pis
