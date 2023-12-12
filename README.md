@@ -1,6 +1,6 @@
 - 👋 Hi, I’m cjon256
-- 👀 I’m interested in computers, really software. I also powerlift and study foreign languanges (primarily Japanese).
-- 🕸 I helped start up a hosting company you've probably never heard of (employee #4 I think) and ended up being resonsible for the network.
+- 👀 I’m interested in computers, really software. I also powerlift and study foreign languages (primarily Japanese).
+- 🕸 I helped start up a hosting company you've probably never heard of (employee #4 I think) and ended up being responsible for the network.
   - We had 4-5 9's uptime most months and got pretty big thanks to some lucky breaks, but eventually sold to the company I work at now
 - I'm pretty solid on AWS and have the Solutions Architect Associate certification
 - 🌱 I’m currently working on deepening my python skills and working on my understanding of Terraform. Next up getting comfortable working with Go code. I also find data science fascinating, and think a lot of the next decade will be companies finding ways to make LLMs useful and safe.
